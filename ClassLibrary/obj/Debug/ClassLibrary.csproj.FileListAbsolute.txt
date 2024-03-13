@@ -1,0 +1,6 @@
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\ClassLibrary\obj\Debug\ClassLibrary.pdb

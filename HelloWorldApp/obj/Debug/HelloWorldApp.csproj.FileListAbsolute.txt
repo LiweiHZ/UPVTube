@@ -1,0 +1,7 @@
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.AssemblyReference.cache
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\HelloWorldApp\obj\Debug\HelloWorldApp.pdb

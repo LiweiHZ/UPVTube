@@ -1,0 +1,15 @@
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\DBTest\bin\Debug\DBTest.exe.config
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\DBTest\bin\Debug\DBTest.exe
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\DBTest\bin\Debug\DBTest.pdb
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\DBTest\bin\Debug\EntityFramework.dll
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\DBTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\DBTest\bin\Debug\UpvTubeLib.dll
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\DBTest\bin\Debug\UpvTubeLib.pdb
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\DBTest\bin\Debug\UpvTubeLib.dll.config
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\DBTest\bin\Debug\EntityFramework.xml
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\DBTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\DBTest\obj\Debug\DBTest.csproj.AssemblyReference.cache
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\DBTest\obj\Debug\DBTest.csproj.CoreCompileInputs.cache
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\DBTest\obj\Debug\DBTest.csproj.CopyComplete
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\DBTest\obj\Debug\DBTest.exe
+C:\Users\liwei\Source\Repos\proyecto\ProyectoPracticas\DBTest\obj\Debug\DBTest.pdb
